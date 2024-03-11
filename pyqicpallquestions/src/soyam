@@ -1,6 +1,0 @@
-package soyam ;
-publics class Soyam {
-    public static void main (String [] args ) {
-      System.out.println("II am class soyam main method ") ; 
-    }
-}
